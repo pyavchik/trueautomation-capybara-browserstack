@@ -11,7 +11,7 @@ account at www.browserstack.com
  ```
  git clone https://github.com/pyavchik/trueautomation-capybara-browserstack.git
  ```
-* Set up your username and automation key at spec_helper.rb:
+* Set up your username and accesskey key at spec_helper.rb:
 ```
 username = 'your_username'
 accesskey = 'your_accesskey'
