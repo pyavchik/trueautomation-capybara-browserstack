@@ -21,5 +21,6 @@ accesskey = 'your_accesskey'
 * Run test
 
 ```bash
+bundle install
 rspec spec/test_scenario/trueautomation_spec.rb
 ```
